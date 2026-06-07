@@ -1,2 +1,3 @@
-v0.4-delta
-- Ana ekran kartları eklendi
+# v0.5
+- Ana ekran geliştirildi
+- Enerji kartları eklendi

@@ -1,3 +1,3 @@
 # VoxIN Control
 
-v0.4 delta
+v0.5 başlangıç sürümü
