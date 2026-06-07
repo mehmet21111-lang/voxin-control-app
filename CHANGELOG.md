@@ -1,4 +1,4 @@
-# v1.0-alpha
-- theme eklendi
-- app shell eklendi
-- github workflow taslağı
+# v1.1-alpha
+- Dashboard
+- Navigation
+- GitHub Action güncellendi

@@ -1,3 +1,3 @@
-# VoxIN Control v1.0-alpha
+# VoxIN Control v1.1-alpha
 
-Flutter proje iskeleti genişletildi.
+Gerçek proje yapısı genişletildi.
