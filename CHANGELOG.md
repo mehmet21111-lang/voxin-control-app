@@ -1,3 +1,4 @@
-# v0.5
-- Ana ekran geliştirildi
-- Enerji kartları eklendi
+# v0.6
+- GitHub Actions taslağı
+- Enerji ekranı eklendi
+- Kontrol ekranı eklendi
