@@ -1,4 +1,5 @@
-# v0.6
-- GitHub Actions taslağı
-- Enerji ekranı eklendi
-- Kontrol ekranı eklendi
+# v0.7
+
+- settings_page.dart eklendi
+- status_card.dart eklendi
+- Ana ekran taslağı güncellendi
