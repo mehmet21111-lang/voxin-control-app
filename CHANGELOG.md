@@ -1,5 +1,2 @@
-## v0.3-alpha
-- Ana sayfa
-- Kontrol ekranı
-- Enerji ekranı
-- Ayarlar ekranı
+v0.4-delta
+- Ana ekran kartları eklendi

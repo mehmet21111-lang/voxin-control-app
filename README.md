@@ -1,3 +1,3 @@
 # VoxIN Control
 
-Türkçe Flutter klima kontrol uygulaması.
+v0.4 delta
