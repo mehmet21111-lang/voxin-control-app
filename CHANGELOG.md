@@ -1,3 +1,3 @@
-# v0.8
-- telemetry_page
-- bottom_nav
+# v0.9
+- DeviceModel
+- MockClimateService
