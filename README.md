@@ -1,3 +1,3 @@
 # VoxIN Control
 
-Türkçe açık kaynak başlangıç projesi.
+Türkçe Flutter klima kontrol uygulaması.
